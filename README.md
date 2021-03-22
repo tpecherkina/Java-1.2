@@ -10,8 +10,8 @@
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-- [Исходный код приложения](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
-- 
+- Исходный код приложения c [netology](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+
 
 В качестве тестовых данных использовались данные, полученные на [netology](https://github.com/netology-code/javaqa-homeworks/tree/master/programming:)
 
