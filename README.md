@@ -10,10 +10,10 @@
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-- Исходный код приложения, полученный на https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+- [Исходный код приложения](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
-В качестве тестовых данных использовались данные, полученные на https://github.com/netology-code/javaqa-homeworks/tree/master/programming:
+[В качестве тестовых данных использовались данные, полученные на netology](https://github.com/netology-code/javaqa-homeworks/tree/master/programming:)
 
 - Обычный бонус = 0.3;
 - Специальный бонус для новых клиентов = 0.6;
